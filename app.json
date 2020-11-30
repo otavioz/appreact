@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "ad_otaviovenancio",
+    "slug": "snack-d9fdd6ed-c0ab-40cd-9bb5-beec5df92ed0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "android": {
+      "package": "com.otaviobot.snackd9fdd6edc0ab40cd9bb5beec5df92ed0"
+    }
+  }
+}
